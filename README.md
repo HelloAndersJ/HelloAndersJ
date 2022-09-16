@@ -1,10 +1,10 @@
 # Hey there 👋
-I am a frontend team lead based in London.
+I am an Engineering Manager and frontend dev based in London.
 
 
 I have specialised in frontend development and team management, with the aim to deliver and keeping people motivated.
 
-- 👷‍♂️ I currently work for a digital agency called [Tangent](https://www.tangent.co.uk/) on multiple project using React and Nodejs
+- 👷‍♂️ I currently work for a digital agency called [xDesign](https://www.xdesign.com/) on multiple project using React and Nodejs
 
 - 🌱 I am passionate about how to apply sustainable thinking to companies and their ways of working.
 
